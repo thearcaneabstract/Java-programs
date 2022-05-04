@@ -1,2 +1,2 @@
 # Java-programs
-Java Test programs in Mycap
+Mycaptain JAVA test programs
